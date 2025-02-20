@@ -10,14 +10,6 @@ Build your first Solana Token Creator Dapp Using Nestjs, Tyscript as frontend an
 
 ## Instruction
 
-Kindly follow the following Instructions to run the project in your system and install the necessary requirements
-
-- [Final Source Code](https://www.theblockchaincoders.com/sourceCode/create-solana-token-creator-dapp)
-
-#### Setup Video
-
-- [Final Code Setup video](https://youtu.be/TuDSjk2GSms?si=IyAakYYgMANQcHJJ)
-
 ```https://code.visualstudio.com/download
   WATCH: Setup & Demo Of Project
 ```
@@ -36,15 +28,6 @@ Kindly follow the following Instructions to run the project in your system and i
   NPM: 8.19.2
 ```
 
-#### Clone Starter File
-
-```
-  GET: Project Starter File Download
-  URL: https://github.com/daulathussain/Solana-Token-Starter-File
-```
-
-All you need to follow the complete project and follow the instructions which are explained in the tutorial by Daulat
-
 ## Final Code Instruction
 
 If you download the final source code then you can follow the following instructions to run the Dapp successfully
@@ -54,13 +37,6 @@ If you download the final source code then you can follow the following instruct
 ```
   WATCH: Setup & Demo Of Project
   URL: https://code.visualstudio.com/download
-```
-
-#### Final Source Code
-
-```
-  Download the Final Source Code
-  URL: https://www.theblockchaincoders.com/SourceCode
 ```
 
 #### Install Vs Code Editor
@@ -98,14 +74,3 @@ If you download the final source code then you can follow the following instruct
   URL:https://beta.solpg.io/
 ```
 
-## Important Links
-
-- [Get Pro Blockchain Developer Course](https://www.theblockchaincoders.com/pro-nft-marketplace)
-- [Support Creator](https://bit.ly/Support-Creator)
-- [All Projects Source Code](https://www.theblockchaincoders.com/SourceCode)
-
-## Authors
-
-- [@theblockchaincoders.com](https://www.theblockchaincoders.com/)
-- [@consultancy](https://www.theblockchaincoders.com/consultancy)
-- [@youtube](https://www.youtube.com/@daulathussain)
